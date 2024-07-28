@@ -1,5 +1,5 @@
 /**
-* Gabriel Haro-Villa
+* Gabriel H
 * pigLatin.cpp
 **/
 
